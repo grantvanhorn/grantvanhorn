@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**grantvanhorn/grantvanhorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ddoria921/ddoria921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Darin's github stats](https://github-readme-stats.vercel.app/api?username=ddoria921&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ddoria921&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
